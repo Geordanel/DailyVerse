@@ -12,7 +12,8 @@
     }
     .courier-font {
       font-family: 'Courier New', Courier, monospace;
-    } 
+    }
+  </style>
 </head>
 <body>
   <h2 style="color: blue;">Bonjour !!! Que la miséricorde, la paix et la charité vous soient multipliées de la part de Dieu notre Sauveur et de Jésus-Christ notre espérance !</h2>
@@ -34,7 +35,7 @@
   <p style="color: yellow;">Nous sommes ce que nous regardons la plupart de notre temps. Fixons nos regards vers Christ notre espérance pour devenir semblables à lui.</p>
   <p>****************************************************************************************************************************************************************************</p>
   <h6 class="times-font">En attendant la bienheureuse espérance et la manifestation de la gloire du grand Dieu et de notre Seigneur Jésus-Christ, consacrons-nous à l'étude et à la pratique de la parole, à nous encourager et à nous enseigner mutuellement.</h6>
-  <h3 style="color: green; class="courier-font""><em>QUE DIEU VOUS BÉNISSE PLUS QU'ABONDAMMENT !!!</em></h3>
+  <h3 class="courier-font" style="color: green;"><em>QUE DIEU VOUS BÉNISSE PLUS QU'ABONDAMMENT !!!</em></h3>
 </body>
 </html>
 
